@@ -10,7 +10,9 @@
 
 <h1>Movies</h1>
 
-@yield('movieListPage')
+    <main>
+        @yield('content')
+    </main>
     
 </body>
 </html>

@@ -8,7 +8,7 @@ use Illuminate\Http\Request;
 class PageController extends Controller
 {
     public function index(){
-        return view('MyMovies');
+        return view('layout.MyMovies');
     }
 
     public function movie_list(){
