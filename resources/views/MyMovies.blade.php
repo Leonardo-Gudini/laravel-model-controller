@@ -11,7 +11,7 @@
 <h1>Movies</h1>
 
     <main>
-        @yield('content')
+        @include('movieListPage')
     </main>
     
 </body>
