@@ -8,8 +8,6 @@
 </head>
 <body>
 
-<h1>Movies</h1>
-
     <main>
         @include('movieListPage')
     </main>
